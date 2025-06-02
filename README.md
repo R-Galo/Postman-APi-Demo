@@ -1,6 +1,6 @@
 # Postman + API Testing Demo
 
-This is a simple API Testing demo project using Postman and the JSONPlaceholder fake API. It demonstrates how to use basic GET and POST requests with response validation using Postman’s built-in scripting.
+This is a simple API Testing demo project using Postman and the JSONPlaceholder fake API. It demonstrates how to use basic GET, POST, PUT, PATCH, adn DEL requests with response validation using Postman’s built-in scripting.
 
 ## 🔧 Setup Instructions
 
